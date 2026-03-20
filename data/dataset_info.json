@@ -1,0 +1,38 @@
+{
+  "WebQSP_train": {
+    "script_url": "WebQSP_train",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "WebQSP_test": {
+    "script_url": "WebQSP_test",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "CWQ_train": {
+    "script_url": "CWQ_train",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "CWQ_test": {
+    "script_url": "CWQ_test",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  }
+}
